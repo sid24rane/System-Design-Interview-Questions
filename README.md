@@ -1,10 +1,14 @@
 # System Design Interview Questions
+
 A curated list of System Design interview questions for SDE-1 (Experienced),SDE-2 and above.
+
 All the questions have been manually curated by me from sites like Geeksforgeeks, Careercup and other interview prep sites.
+
 Targeted companies: Amazon, Google, Facebook and other biggies.
+
 Hope it helps you to prepare for your upcoming interviews!
 
-#Questions
+# Questions
 
 - Design commenting system
 - Design subscription based sports website which can display scores, game status, history for any games.
