@@ -83,4 +83,18 @@ Design it completely and scalable Ranking System
 - Design a kind of kindle fire application where we can subscribe news channel and read the news from all publishers as a digital format
 - Design a realtime Video chat like Google Duo
 - Design News paper & Magazine subscription system
+- Design a system like Hackerrank/Codechef/Topcoder
+- Design a concurrent Hashmap
+- Design an ATM Machine system which can support massive amount of transactions
+- Design Airport Baggage system
+- Design Flight Information Display system
+- Design a conference room booking system for a company which can have offices in multiple cities, each city can have multiple buildings, each building can have multiple floors, each floor can have multiple rooms. Each room can have features like capacitiy, video conferencing available, etc.
+- Design newsfeed feature of Facebook
+- Design an efficient Mail delivery system
+- Design like/dislike feature at Youtube scale.
+- Design Paypal
+- Design Air traffic control system
+- Design a realtime service which tells your friends who is online
+- Design Google Maps
+- Design Grammarly
 
