@@ -12,24 +12,24 @@ Hope it helps you to prepare for your upcoming interviews!
 
 - Design commenting system
 - Design subscription based sports website which can display scores, game status, history for any games.
-- Design Netflix => search, video serving, authentication, encryption, dns lookup,caching strategy,serving multi quality video etc
+- [Design Netflix => search, video serving, authentication, encryption, dns lookup,caching strategy,serving multi quality video etc](https://www.youtube.com/watch?v=lYoSd2WCJTo)
 - Design a Latency Management System
 - Design a Library Management System
-- Design a Notification service
+- [Design a Notification service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - Design ESPN/Cricinfo/Cricbuzz
-- Design Uber
-- Design Whatsapp
+- [Design Uber](https://www.youtube.com/watch?v=Tp8kpMe-ZKw)
+- [Design Whatsapp](https://www.youtube.com/watch?v=RjQjbJ2UJDg)
 - Design Quora
 - Design Lookahead system
 - Design Google Docs/ Collaborative Editing service
-- Design URL Shortner service
+- [Design URL Shortner service](https://www.youtube.com/watch?v=AVztRY77xxA&list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC&index=7)
 - Design RedBus
 - Design BookMyShow
 - Design Domain Backdooring system
 - Design Amazon Locker
 - Design Movies Review Aggregator System >  Data should be fetched from movie rating providers like imdb, rotten tomatoes, etc
 - Design offline caching system for Ecommerce platform
-- Design Amazon E-commerce
+- [Design Amazon E-commerce](https://youtu.be/EpASu_1dUdE?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC)
 - Design Online chess game/Multiplayer game
 - Design gaming platform.  A number of games can be hosted on this platform. User can login and select a particular game
 - Design a last-mile delivery platform in case of peak seasons
@@ -62,10 +62,10 @@ Output : This:2, is:2, my:2… highest rank (sorted asc or desc based on  provid
 Design it completely and scalable Ranking System
 - Design Amazon Cart system
 - Design Google Search
-- Design Twitter
-- Design Facebook
+- [Design Twitter](https://www.youtube.com/watch?v=EkudBdvbDhs)
+- [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
 - Design Snapchat
-- Design Instagram
+- [Design Instagram](https://www.youtube.com/watch?v=9-hjBGxuiEs)
 - Design App-store
 - Design a music player application
 - Design a distributed LRU Cache
@@ -95,6 +95,8 @@ Design it completely and scalable Ranking System
 - Design Paypal
 - Design Air traffic control system
 - Design a realtime service which tells your friends who is online
-- Design Google Maps
+- [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
 - Design Grammarly
-
+- [Design AirBNB](https://www.youtube.com/watch?v=YyOXt2MEkv4)
+- [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
+- [Design Twitter](https://www.codekarle.com/system-design/Twitter-system-design.html)
