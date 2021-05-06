@@ -97,4 +97,5 @@ Design it completely and scalable Ranking System
 - Design a realtime service which tells your friends who is online
 - Design Google Maps
 - Design Grammarly
+- [Design Dropbox or Google Drive](https://medium.com/@narengowda/system-design-dropbox-or-google-drive-8fd5da0ce55b)
 
