@@ -98,3 +98,4 @@ Design it completely and scalable Ranking System
 - Design Google Maps
 - Design Grammarly
 - Design Online Examination Portal like Byju's
+- [Design Dropbox or Google Drive](https://medium.com/@narengowda/system-design-dropbox-or-google-drive-8fd5da0ce55b)
