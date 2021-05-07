@@ -100,3 +100,5 @@ Design it completely and scalable Ranking System
 - [Design AirBNB](https://www.youtube.com/watch?v=YyOXt2MEkv4)
 - [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
 - [Design Twitter](https://www.codekarle.com/system-design/Twitter-system-design.html)
+- Design Online Examination Portal like Byju's
+- [Design Dropbox or Google Drive](https://medium.com/@narengowda/system-design-dropbox-or-google-drive-8fd5da0ce55b)
