@@ -11,6 +11,7 @@ Hope it helps you to prepare for your upcoming interviews!
 # Questions
 
 - Design commenting system
+- [Design (LLD) JSON parser](https://lldcoding.com/design-lld-json-parser-machine-coding)
 - Design subscription based sports website which can display scores, game status, history for any games.
 - [Design Netflix => search, video serving, authentication, encryption, dns lookup,caching strategy,serving multi quality video etc](https://www.youtube.com/watch?v=lYoSd2WCJTo)
 - Design a Latency Management System
